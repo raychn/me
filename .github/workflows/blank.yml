@@ -142,7 +142,7 @@ jobs:
           # cat >> .config <<EOF
           # CONFIG_PACKAGE_luci-app-
           # CONFIG_PACKAGE_luci-app-firewall 
-          # CONFIG_PACKAGE_luci-app-sqm
+          # CONFIG_PACKAGE_luci-app-qos 
           # CONFIG_PACKAGE_luci-app-wifischedule 
           # CONFIG_PACKAGE_luci-app-arpbind
           # CONFIG_PACKAGE_luci-app-flowoffload 
